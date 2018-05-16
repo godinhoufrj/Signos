@@ -31,18 +31,18 @@ class ViewController: UITableViewController {
         signos.append("Peixes")
         
         //configura significados dos signos
-        significadosSignos.append("Mu de Aires - Extinção estelar (Saga de Hades)")
-        significadosSignos.append("Aldebaran de Touro - Grande Chifre (Saga do Santuário)")
-        significadosSignos.append("Saga de Gêmeos - Explosão Galactica (Saga de Hades)")
-        significadosSignos.append("Mascara da Morte de Cancer - Ondas do Inferno (Saga do Santuário)")
-        significadosSignos.append("Aioria de Leão - Cápsula do Poder (episódios pré Saga do Santuário)")
-        significadosSignos.append("Shaka de Virgem - Tesouro do Céu (Saga do Santuário)")
-        significadosSignos.append("Dohko de Libra - Cólera dos Cem Dragões (Saga de Hades)")
-        significadosSignos.append("Milo de Escorpião - Agulha Escarlate (Saga do Santuário)")
-        significadosSignos.append("Aioros de Sagiário - Trovão Atômico (Esse golpe só aparece uma vez na série inteira)")
-        significadosSignos.append("Shura de Capricórnio - Excalibur (Saga do Santuário)")
-        significadosSignos.append("Camus de Aquário - Execução Aurora (Saga do Santuário)")
-        significadosSignos.append("Afrodite de Peixes - Rosa Branca (Saga do Santuário)")
+        significadosSignos.append("Mu de Aires - Extinção estelar")
+        significadosSignos.append("Aldebaran de Touro - Grande Chifre")
+        significadosSignos.append("Saga de Gêmeos - Explosão Galactica")
+        significadosSignos.append("Mascara da Morte de Cancer - Ondas do Inferno")
+        significadosSignos.append("Aioria de Leão - Cápsula do Poder")
+        significadosSignos.append("Shaka de Virgem - Tesouro do Céu")
+        significadosSignos.append("Dohko de Libra - Cólera dos Cem Dragões")
+        significadosSignos.append("Milo de Escorpião - Agulha Escarlate")
+        significadosSignos.append("Aioros de Sagiário - Trovão Atômico")
+        significadosSignos.append("Shura de Capricórnio - Excalibur")
+        significadosSignos.append("Camus de Aquário - Execução Aurora")
+        significadosSignos.append("Afrodite de Peixes - Rosa Branca")
         
     }
     
